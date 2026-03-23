@@ -1,3 +1,7 @@
 --only-binary=:all:
 streamlit==1.33.0
 pandas==2.1.4
+PyPDF2==3.0.0
+pytesseract==0.3.13
+opencv-python==4.9.0.80
+numpy==1.26.4
